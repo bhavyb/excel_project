@@ -1,7 +1,7 @@
-# 📊 Customer Transaction Analysis — Excel Project
+# 📊 Customer Transaction Analysis
 
 ## Objective
-Analyze 200+ customer transactions using Excel to find insights, build visualizations, and create a reporting dashboard.
+Analyze 250 customer transactions using Excel to find insights, build visualizations, and create a reporting dashboard.
 
 ---
 
@@ -23,6 +23,14 @@ Analyze 200+ customer transactions using Excel to find insights, build visualiza
 | **Insights Report** | Findings, storytelling narrative, and recommendations |
 
 ---
+
+<img width="1232" height="660" alt="image" src="https://github.com/user-attachments/assets/0a03ee3d-adad-4116-b93d-9b0d7c99b2ee" />
+
+<img width="1022" height="720" alt="image" src="https://github.com/user-attachments/assets/a22d617a-1bec-4fba-9252-598daf0a6504" />
+
+<img width="1866" height="604" alt="image" src="https://github.com/user-attachments/assets/75146b9f-b9c8-4005-b580-e478c8bafafe" />
+
+<img width="1125" height="699" alt="image" src="https://github.com/user-attachments/assets/7f6aa1b5-eb7b-49f9-b1ea-176d5c29aad0" />
 
 ## ✅ Key Topics Implemented
 
