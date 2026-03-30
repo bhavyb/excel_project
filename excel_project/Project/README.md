@@ -169,7 +169,7 @@ BhavyExcelDashboard.xlsx
 
 ### 6️⃣ `6_Dashboard` — Interactive Dashboard
 
-**Skills:** Slicers, Dynamic ranges, Dashboard design
+**Skills:** Dynamic ranges, Dashboard design
 
 **5 KPI Cards:**
 
