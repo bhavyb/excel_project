@@ -186,7 +186,4 @@ BhavyExcelDashboard.xlsx
 | Chairs | $25,465.15 | $2,758.96 | 17 |
 | Accessories | $25,011.35 | $4,617.30 | 14 |
 | Binders | $21,552.23 | $3,000.88 | 17 |
-
-> 💡 **To add Slicers:** Insert → Slicer → Select Category / Region / Segment columns from the dataset
-
 ---
