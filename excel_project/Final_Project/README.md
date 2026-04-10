@@ -24,13 +24,8 @@ Analyze 250 customer transactions using Excel to find insights, build visualizat
 
 ---
 
-<img width="1232" height="660" alt="image" src="https://github.com/user-attachments/assets/0a03ee3d-adad-4116-b93d-9b0d7c99b2ee" />
+<img width="1890" height="734" alt="image" src="https://github.com/user-attachments/assets/99346c94-b261-4f09-ae9b-ea2643b0e311" />
 
-<img width="1022" height="720" alt="image" src="https://github.com/user-attachments/assets/a22d617a-1bec-4fba-9252-598daf0a6504" />
-
-<img width="1866" height="604" alt="image" src="https://github.com/user-attachments/assets/75146b9f-b9c8-4005-b580-e478c8bafafe" />
-
-<img width="1125" height="699" alt="image" src="https://github.com/user-attachments/assets/7f6aa1b5-eb7b-49f9-b1ea-176d5c29aad0" />
 
 ## ✅ Key Topics Implemented
 
