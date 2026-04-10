@@ -40,11 +40,8 @@ Analyze 250 customer transactions using Excel to find insights, build visualizat
 - **WHAT-IF Analysis** — Scenario Manager (6 scenarios) + Goal Seek helper
 - **Linear Regression** — `SLOPE()`, `INTERCEPT()`, `FORECAST()` on monthly revenue
 - **GroupBy for High-Value Customers** — `SUMIF` grouped by Customer ID, Top 10 ranked
-- **Most Frequent Product** — `COUNTIF` + `INDEX/MATCH` to find top purchased item
-- **Compare Two Lists** — Premium vs Basic customers matched using `ISNUMBER(MATCH())`
 - **Abbreviations** — `UPPER()`, `LOWER()`, `LEFT()`, `MID()`, initials extraction
 - **Dashboard** — KPI indicators, category/region/segment tables, charts, MoM trend arrows
-- **Data Analysis & Storytelling** — 10 key findings + 7 business recommendations
 
 ---
 
