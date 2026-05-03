@@ -22,7 +22,8 @@ Analyze 200+ customer transactions using Excel to find insights, build visualiza
 | **Dashboard** | KPI cards, summary tables, and mini-charts |
 | **Insights Report** | Findings, storytelling narrative, and recommendations |
 
----
+<img width="1890" height="734" alt="image" src="https://github.com/user-attachments/assets/99346c94-b261-4f09-ae9b-ea2643b0e311" />
+
 
 ## ✅ Key Topics Implemented
 
